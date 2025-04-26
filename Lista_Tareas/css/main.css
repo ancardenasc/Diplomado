@@ -10,6 +10,7 @@ h1{
   font-size: 2rem;
   color: var(--primary);
   text-align: center;
+  font-weight: bold;
 }
 
 .btn-primary{
@@ -17,8 +18,16 @@ h1{
   border: none !important;
   color: var(--secondary) !important;
 }
+
 .btn-primary:hover{
   background-color: var(--secondary) !important;
   border: none !important;
   color: var(--primary) !important;
 }
+
+.completed{
+  text-decoration: line-through !important;
+  color: gray !important;
+  background-color: #e0e0e0 !important;
+}
+
