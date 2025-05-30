@@ -1,0 +1,75 @@
+[{
+  "nombre": "Juan Pérez",
+  "edad": 20,
+  "cursos": [
+    {
+      "nombre": "Matemáticas",
+      "calificación": 95
+    },
+    {
+      "nombre": "Historia",
+      "calificación": 88
+    },
+    {
+      "nombre": "Ciencias",
+      "calificación": 92
+    }
+  ],
+  "promedio": 91.67,
+  "activo": true,
+  "fecha_inscripción": "2023-01-15",
+  "comentarios": [
+    "Excelente estudiante",
+    "Participa activamente en clase"
+  ]
+},
+{
+  "nombre": "María López",
+  "edad": 22,
+  "cursos": [
+    {
+      "nombre": "Matemáticas",
+      "calificación": 98
+    },
+    {
+      "nombre": "Historia",
+      "calificación": 90
+    },
+    {
+      "nombre": "Ciencias",
+      "calificación": 94
+    }
+  ],
+  "promedio": 93.33,
+  "activo": true,
+  "fecha_inscripción": "2023-02-01",
+  "comentarios": [
+    "Buen rendimiento académico",
+    "Trabaja en equipo"
+  ]
+},
+{
+  "nombre": "Carlos García",
+  "edad": 21,
+  "cursos": [
+    {
+      "nombre": "Matemáticas",
+      "calificación": 85
+    },
+    {
+      "nombre": "Historia",
+      "calificación": 80
+    },
+    {
+      "nombre": "Ciencias",
+      "calificación": 88
+    }
+  ],
+  "promedio": 84.33,
+  "activo": false,
+  "fecha_inscripción": "2022-11-20",
+  "comentarios": [
+    "Necesita mejorar en matemáticas",
+    "Asiste a tutorías"
+  ]
+}]
